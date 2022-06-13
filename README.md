@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there, I'm Gourav 👋
+
+I'm an engineering student at NIT Trichy.
 
 <!--
 **gouravsingh675/gouravsingh675** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
