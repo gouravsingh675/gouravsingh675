@@ -1,6 +1,7 @@
 ### Hi there, I'm Gourav 👋
 
 I'm an engineering student at NIT Trichy.
+My areas of interest include Data Analytics, web development, Machine learning and Operation research.
 
 <!--
 **gouravsingh675/gouravsingh675** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
