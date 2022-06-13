@@ -1,6 +1,7 @@
 ### Hi there, I'm Gourav 👋
 
 I'm an engineering student at NIT Trichy.
+
 My areas of interest include Data Analytics, web development, Machine learning and Operation research.
 
 <!--
